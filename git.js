@@ -1,0 +1,1 @@
+alert('Seba kiero');
